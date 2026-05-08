@@ -14,10 +14,9 @@
 # 🌐 Profiles & Links
 
 📧 Email: jahnavinalluri0123@gmail.com  
-📱 Phone: +91 6305626809  
 💻 GitHub: https://github.com/JahnaviNalluri  
-🔗 LinkedIn: LinkedIn  
-🧩 LeetCode: LeetCode  
+🔗 LinkedIn: https://www.linkedin.com/in/jahnavi-nalluri-9ba5b432a/
+🧩 LeetCode: https://leetcode.com/u/Jaanu1915/  
 
 ---
 
