@@ -4,7 +4,7 @@
 
 🎓 B.Tech Information Technology, Final Year  
 🏛️ Vasireddy Venkatadri International Technological University (VVITU)  
-📊 CGPA: 8.92 / 10
+📊 CGPA: 9 / 10
 
 📌 Open to Full-Time Roles, Internships, and Freelance Opportunities  
 📍 Full-Stack & Backend-focused Developer
